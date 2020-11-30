@@ -1,0 +1,20 @@
+{
+  "name": "budty-app",
+  "version": "1.0.0",
+  "description": "this is a budget tracker",
+  "main": "BUDTY.js",
+  "scripts": {
+    "start": "parcel BUDTY.html",
+    "build": "parcel build BUDTY.html --out-dir ./dist"
+  },
+  "repository": {},
+  "author": "sneh khatri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/The-x-Theorist/BUDTY-App/issues"
+  },
+  "homepage": "https://github.com/The-x-Theorist/BUDTY-App#readme",
+  "devDependencies": {
+    "parcel": "^1.12.4"
+  }
+}
